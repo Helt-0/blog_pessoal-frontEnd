@@ -1,7 +1,7 @@
 ## Blog Pessoal - Frontend
 Este repositório contém o frontend de um projeto de blog pessoal, desenvolvido com React, TypeScript, e utilizando o Vite para o empacotamento e construção da aplicação.
 
-##Funcionalidades
+## Funcionalidades
 📝 Cadastro e login de usuários
 📋 Gerenciamento de posts e categorias
 🛒 Carrinho de compras para produtos fictícios (em caso de integração com funcionalidades de e-commerce)
@@ -10,7 +10,7 @@ Este repositório contém o frontend de um projeto de blog pessoal, desenvolvido
 🔗 Integração com uma API REST para operações CRUD
 💬 Modal e popups para uma experiência de usuário aprimorada
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 ⚛️ React: Biblioteca JavaScript para construção de interfaces de usuário.
 🟦 TypeScript: Superconjunto de JavaScript que adiciona tipagem estática.
 ⚡ Vite: Ferramenta rápida de build e desenvolvimento para projetos web.
@@ -33,13 +33,14 @@ Este repositório contém o frontend de um projeto de blog pessoal, desenvolvido
    ```bash
    npm run dev
 
-Estrutura de Pastas
+## Estrutura de Pastas
 📂 src/: Contém todos os arquivos de código-fonte.
 🗂️ public/: Arquivos estáticos.
 🧩 components/: Componentes reutilizáveis da aplicação.
 🔧 services/: Arquivos para comunicação com a API.
-Contribuições
+
+## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
-Licença
+## Licença
 Este projeto está licenciado sob os termos da licença MIT.
