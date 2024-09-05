@@ -8,7 +8,7 @@ Este repositório contém o frontend de um projeto de blog pessoal, desenvolvido
 🔄 Renderização condicional de componentes, como botões de ações baseados na autenticação do usuário\
 📱 Design responsivo e moderno utilizando Tailwind CSS\
 🔗 Integração com uma API REST para operações CRUD\
-💬 Modal e popups para uma experiência de usuário aprimorada\
+💬 Modal e popups para uma experiência de usuário aprimorada
 
 ## Tecnologias Utilizadas
 ⚛️ React: Biblioteca JavaScript para construção de interfaces de usuário.\
@@ -16,7 +16,7 @@ Este repositório contém o frontend de um projeto de blog pessoal, desenvolvido
 ⚡ Vite: Ferramenta rápida de build e desenvolvimento para projetos web.\
 🎨 Tailwind CSS: Framework utilitário de CSS para estilização rápida e responsiva.\
 📡 Axios: Cliente HTTP baseado em promessas para fazer requisições à API.\
-🌐 React Router: Gerenciamento de rotas na aplicação React.\
+🌐 React Router: Gerenciamento de rotas na aplicação React.
 
 
 ## Como Rodar o Projeto
@@ -37,7 +37,7 @@ Este repositório contém o frontend de um projeto de blog pessoal, desenvolvido
 📂 src/: Contém todos os arquivos de código-fonte.\
 🗂️ public/: Arquivos estáticos.\
 🧩 components/: Componentes reutilizáveis da aplicação.\
-🔧 services/: Arquivos para comunicação com a API.\
+🔧 services/: Arquivos para comunicação com a API.
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
